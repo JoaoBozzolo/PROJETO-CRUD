@@ -21,3 +21,19 @@ Sistema de Cadastro de Clientes e Contatos desenvolvido em Java Console utilizan
 - João Pedro Bozzolo
 - Maurício Paiva
 - Samuel Elpídio
+
+## Participação dos Integrantes
+
+### João Pedro Bozzolo
+- CRUD de Clientes
+- Validações
+- Menus e navegação
+
+### Maurício Paiva
+- CRUD de Contatos
+- Relacionamento Cliente x Contato
+
+### Samuel Elpídio
+- Relatórios
+- Ordenação por nome
+- Testes do sistema
