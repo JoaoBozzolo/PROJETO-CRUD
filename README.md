@@ -16,3 +16,8 @@ Sistema de Cadastro de Clientes e Contatos desenvolvido em Java Console utilizan
 - Java
 - Scanner
 
+## Desenvolvedores 
+
+- João Pedro Bozzolo
+- Maurício Paiva
+- Samuel Elpídio
